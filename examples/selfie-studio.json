@@ -1,0 +1,54 @@
+{
+  "tag": "육아툰",
+  "title": "가족사진 한 장 건지려다 47장",
+  "panels": [
+    {
+      "caption": "셀프사진관 가서 한 장 건지려다",
+      "bg": "warm",
+      "chars": [
+        {"who": "hyung", "expr": "smile", "arms": "hold"},
+        {"who": "dad", "expr": "happy", "arms": "up"},
+        {"who": "dongsaeng", "expr": "smile", "arms": "hold"}
+      ],
+      "bubbles": [{"who": "dad", "text": "자, 하나 둘 셋!"}],
+      "sfx": "찰칵!"
+    },
+    {
+      "caption": "셋 하면 꼭",
+      "bg": "pink",
+      "chars": [
+        {"who": "hyung", "expr": "happy", "arms": "hold"},
+        {"who": "dongsaeng", "expr": "yum", "arms": "up"}
+      ],
+      "bubbles": [
+        {"who": "hyung", "text": "(눈 감음)"},
+        {"who": "dongsaeng", "text": "메롱~"}
+      ],
+      "sfx": "벌써 30장째"
+    },
+    {
+      "caption": "한 번만 더!",
+      "bg": "lavender",
+      "chars": [
+        {"who": "hyung", "expr": "smile", "arms": "point_right"},
+        {"who": "dad", "expr": "sweat", "arms": "hold"},
+        {"who": "dongsaeng", "expr": "angry", "arms": "up"}
+      ],
+      "bubbles": [
+        {"who": "hyung", "text": "아까 거\n잘 나왔잖아"},
+        {"who": "dongsaeng", "text": "내가\n버튼 누를래!"}
+      ]
+    },
+    {
+      "caption": "결국 47장째",
+      "bg": "green",
+      "chars": [
+        {"who": "dad", "expr": "sweat", "arms": "hold"},
+        {"who": "hyung", "expr": "happy", "arms": "up", "scale": 0.85},
+        {"who": "dongsaeng", "expr": "happy", "arms": "up", "scale": 0.85}
+      ],
+      "bubbles": [{"who": "dad", "text": "엄마만 잘 나온\n사진으로 하자…"}],
+      "sfx": "ㅋㅋ"
+    }
+  ]
+}

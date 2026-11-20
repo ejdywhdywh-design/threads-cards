@@ -1,0 +1,51 @@
+{
+  "tag": "육아툰",
+  "title": "형아 vs 동생 : 크림빵 재판",
+  "panels": [
+    {
+      "caption": "크림빵 하나를 반으로 나눴을 뿐인데",
+      "bg": "warm",
+      "chars": [
+        {"who": "hyung", "expr": "smile", "x": 0.14},
+        {"who": "dad", "expr": "happy", "arms": "up", "props": ["bun", "bun"], "x": 0.5},
+        {"who": "dongsaeng", "expr": "smile", "x": 0.9}
+      ],
+      "bubbles": [{"who": "dad", "text": "자, 딱 반으로!"}]
+    },
+    {
+      "caption": "그런데",
+      "bg": "pink",
+      "chars": [
+        {"who": "hyung", "expr": "angry", "arms": "point_right", "props": ["bun", null]},
+        {"who": "dongsaeng", "expr": "cry", "arms": "hold", "props": ["bun", null]}
+      ],
+      "bubbles": [
+        {"who": "hyung", "text": "쟤 게\n더 커!"},
+        {"who": "dongsaeng", "text": "내 게 더\n작아!!"}
+      ]
+    },
+    {
+      "caption": "바꿔줬더니",
+      "bg": "blue",
+      "chars": [
+        {"who": "hyung", "expr": "cry", "arms": "hold", "props": [null, "bun"]},
+        {"who": "dongsaeng", "expr": "angry", "arms": "hold", "props": ["bun", null]}
+      ],
+      "bubbles": [
+        {"who": "hyung", "text": "아까 게\n더 컸는데!"},
+        {"who": "dongsaeng", "text": "으아앙!!"}
+      ]
+    },
+    {
+      "caption": "결국",
+      "bg": "green",
+      "chars": [
+        {"who": "dad", "expr": "sweat", "arms": "lap", "props": ["crumbs", null], "sit": true, "x": 0.38},
+        {"who": "hyung", "expr": "happy", "arms": "up", "scale": 0.65, "x": 0.78},
+        {"who": "dongsaeng", "expr": "happy", "arms": "up", "scale": 0.7, "x": 0.93}
+      ],
+      "bubbles": [{"who": "dad", "text": "남은 부스러기는\n아빠 몫…"}],
+      "sfx": "ㅋㅋㅋ"
+    }
+  ]
+}
