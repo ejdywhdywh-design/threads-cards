@@ -220,8 +220,11 @@ def panel_frame(box, color, label):
     rrect(box, 22, color, 6)
     d.line(P([x0 + 8, y1 - 70, x1 - 8, y1 - 70]), fill="#CDB892", width=int(4 * S))
     if label:
-        f = font("NanumGothicBold.ttf", 26)
-        tw = d.textlength(label, font=f) / S
+        for fs in (26, 23, 20):
+            f = font("NanumGothicBold.ttf", fs)
+            tw = d.textlength(label, font=f) / S
+            if tw + 28 <= (x1 - x0) - 32:
+                break
         rrect((x0 + 16, y0 + 16, x0 + 44 + tw, y0 + 62), 10, "#FFE27A", 3)
         d.text(P((x0 + 30, y0 + 39)), label, font=f, fill=INK, anchor="lm")
     return y1 - 70
@@ -259,10 +262,12 @@ def draw_panel(box, p, chars):
         if b["who"] not in heads:
             raise SystemExit(f"말풍선 화자가 컷에 없어요: {b['who']}")
         hx, ht = heads[b["who"]]
-        size = 34
         lines = b["text"].split("\n")
-        f = font("NanumGothicBold.ttf", size)
-        w = max(d.textlength(t, font=f) for t in lines) / S + 40
+        for size in (34, 30, 27, 24):  # 칸보다 넓으면 글자를 줄인다
+            f = font("NanumGothicBold.ttf", size)
+            w = max(d.textlength(t, font=f) for t in lines) / S + 40
+            if w <= (x1 - x0) - 24:
+                break
         h = size * 1.3 * len(lines) + 24
         cx = min(max(hx, x0 + 12 + w / 2), x1 - 12 - w / 2)
         cy = ht - 38 - h / 2
@@ -278,7 +283,11 @@ def draw_panel(box, p, chars):
         placed.append({"cx": cx, "cy": cy, "w": w, "h": h})
         bubble(cx, cy, w, h, b["text"], (hx, ht + 2), size)
     if p.get("sfx"):
-        d.text(P((x1 - 28, y1 - 34)), p["sfx"], font=font("NanumGothicExtraBold.ttf", 34), fill="#C25E1F", anchor="rm")
+        for fs in (34, 30, 26, 22):
+            sf = font("NanumGothicExtraBold.ttf", fs)
+            if d.textlength(p["sfx"], font=sf) / S <= (x1 - x0) - 60:
+                break
+        d.text(P((x1 - 28, y1 - 34)), p["sfx"], font=sf, fill="#C25E1F", anchor="rm")
 
 
 def finish(w, h, out):

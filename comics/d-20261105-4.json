@@ -1,0 +1,104 @@
+{
+ "tag": "AI아빠툰",
+ "title": "끝말잇기 상대 맡김",
+ "panels": [
+  {
+   "caption": "아빠는 너무 졸린데",
+   "bg": "lavender",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sleepy",
+     "arms": "hold"
+    },
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠 끝말잇기\n하자!"
+    }
+   ],
+   "sfx": "졸려…"
+  },
+  {
+   "caption": "AI한테 맡겨봄",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "쉬운 단어만,\n가끔 져줘"
+    }
+   ]
+  },
+  {
+   "caption": "처음엔 잘 되다가",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up"
+    },
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "기차, 차표,\n표범!"
+    }
+   ],
+   "sfx": "AI: 음… 모르겠어요!"
+  },
+  {
+   "caption": "7살 눈은 못 속임",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "point_right"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠, 얘 일부러\n져주는 거지?"
+    }
+   ],
+   "sfx": "결국 아빠가 상대함"
+  }
+ ]
+}

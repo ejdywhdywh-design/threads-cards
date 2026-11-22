@@ -1,0 +1,100 @@
+{
+ "tag": "육아툰",
+ "title": "아빠를 그려줬는데",
+ "panels": [
+  {
+   "caption": "형아가 그림을 들고 옴",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up",
+     "props": [
+      null,
+      "book"
+     ]
+    },
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "down"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠 그려왔어!"
+    }
+   ]
+  },
+  {
+   "caption": "그런데 이 그림",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "surprised",
+     "arms": "hold"
+    },
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "이게 왜\n이렇게 커?"
+    },
+    {
+     "who": "hyung",
+     "text": "아빠 배가\n제일 크잖아"
+    }
+   ],
+   "sfx": "얼굴은 동그라미 하나"
+  },
+  {
+   "caption": "동생은 고개를 끄덕끄덕",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "down"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "맞아 맞아!"
+    }
+   ],
+   "sfx": "처음으로 의견 일치"
+  },
+  {
+   "caption": "냉장고에 붙여놓고",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "볼 때마다\n뱃살 만져봄…"
+    }
+   ],
+   "sfx": "ㅋㅋ"
+  }
+ ]
+}

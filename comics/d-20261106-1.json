@@ -1,0 +1,97 @@
+{
+ "tag": "육아툰",
+ "title": "물웅덩이 사냥꾼",
+ "panels": [
+  {
+   "caption": "장화 사줬더니",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "down"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "비 온다!"
+    }
+   ]
+  },
+  {
+   "caption": "마른 길 놔두고",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "제일 깊은 데로\n첨벙!"
+    }
+   ],
+   "sfx": "첨벙!"
+  },
+  {
+   "caption": "동생은 피했는데",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "sad",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "옷 젖는 거\n싫어…"
+    }
+   ],
+   "sfx": "바지가 조금 젖음"
+  },
+  {
+   "caption": "그때부터 둘 다",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "up"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "장화는 왜\n샀을까…"
+    }
+   ],
+   "sfx": "장화 안에도 물이"
+  }
+ ]
+}

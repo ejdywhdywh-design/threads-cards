@@ -1,0 +1,108 @@
+{
+ "tag": "맛집툰",
+ "title": "돼지국밥 앞의 아빠",
+ "panels": [
+  {
+   "caption": "돼지국밥이 나오면",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "up",
+     "props": [
+      "bowl",
+      null
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "자, 이제 시작이다!"
+    }
+   ]
+  },
+  {
+   "caption": "아빠의 의식",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "yum",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "새우젓, 정구지,\n다대기 휘휘!"
+    }
+   ],
+   "sfx": "이게 부산 방식"
+  },
+  {
+   "caption": "애들은",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "hold",
+     "props": [
+      "bowl",
+      null
+     ]
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "hold",
+     "props": [
+      "bowl",
+      null
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "그거 넣으면\n매워!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "맑은 국물이\n제일 좋아"
+    }
+   ],
+   "sfx": "무첨가파"
+  },
+  {
+   "caption": "결국 한 상에서",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "국밥 두 종류\n먹는 기라 ㅋㅋ"
+    }
+   ],
+   "sfx": "뭐부터 넣노?"
+  }
+ ]
+}

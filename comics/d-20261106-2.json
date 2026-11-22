@@ -1,0 +1,95 @@
+{
+ "tag": "맛집툰",
+ "title": "비빔당면 찾습니다",
+ "panels": [
+  {
+   "caption": "아산에서 비빔당면 찾으면",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "비빔당면\n있어요?"
+    }
+   ]
+  },
+  {
+   "caption": "부산 시장에 있는 건데",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "당면에 어묵, 단무지,\n시금치 올리고…"
+    }
+   ],
+   "sfx": "다들 '그게 뭔데?'"
+  },
+  {
+   "caption": "잡채 아니에요?",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "angry",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "아이다!\n잡채랑은 결이 다르다"
+    }
+   ],
+   "sfx": "부산 시장 맛"
+  },
+  {
+   "caption": "애들도 먹을 맛인데",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "hold",
+     "props": [
+      "bowl",
+      null
+     ]
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "hold",
+     "props": [
+      "bowl",
+      null
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "여기선 아직\n한 번도 못 봤다"
+    }
+   ],
+   "sfx": "비빔당면 어디 없노"
+  }
+ ]
+}
