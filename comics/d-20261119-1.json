@@ -1,0 +1,107 @@
+{
+ "tag": "육아툰",
+ "title": "비밀은 3분",
+ "panels": [
+  {
+   "caption": "엄마 생일 선물 사러",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "down"
+    },
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "up"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "이거 엄마한테\n비밀이다!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "응! 비밀!"
+    }
+   ]
+  },
+  {
+   "caption": "집에 도착하자",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up"
+    },
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "down"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "엄마! 우리\n비밀 있다!"
+    }
+   ],
+   "sfx": "근데 꽃은 아니야!"
+  },
+  {
+   "caption": "형아가 급하게",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "surprised",
+     "arms": "up"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "surprised",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "야, 조용히 해!"
+    }
+   ],
+   "sfx": "이미 늦음"
+  },
+  {
+   "caption": "그날 밤",
+   "bg": "night",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "sad",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "sleepy",
+     "arms": "hold",
+     "scale": 0.8
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "동생이랑\n말 안 해"
+    }
+   ],
+   "sfx": "자기 전까지 삐져 있음"
+  }
+ ]
+}

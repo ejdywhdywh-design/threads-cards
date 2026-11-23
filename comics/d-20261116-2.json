@@ -1,0 +1,86 @@
+{
+ "tag": "맛집툰",
+ "title": "회가 그리운 아빠",
+ "panels": [
+  {
+   "caption": "부산 살 땐",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "회 먹고 싶으면\n민락회센타!"
+    }
+   ]
+  },
+  {
+   "caption": "아산에 오니",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sad",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "수조에서 고르는\n맛이 없네…"
+    }
+   ]
+  },
+  {
+   "caption": "횟집 가면 아빠 눈은",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "주차 되나?\n초밥용 밥은?"
+    }
+   ],
+   "sfx": "회보다 딴 거 챙김"
+  },
+  {
+   "caption": "그래도 애들은",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "sad",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "회 맛있다!"
+    }
+   ],
+   "sfx": "정작 아빠는 못 묵음"
+  }
+ ]
+}

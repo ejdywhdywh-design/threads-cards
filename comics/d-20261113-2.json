@@ -1,0 +1,93 @@
+{
+ "tag": "AI아빠툰",
+ "title": "칭찬 스티커 허점",
+ "panels": [
+  {
+   "caption": "AI한테 규칙 부탁",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "칭찬 스티커\n규칙 만들어줘"
+    }
+   ]
+  },
+  {
+   "caption": "점수표 완성",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "양치 1점, 정리 2점,\n동생 도와주기 3점"
+    }
+   ],
+   "sfx": "항목이 12개"
+  },
+  {
+   "caption": "그런데 형아가",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "동생 신발 열 번\n신겨줬어! 30점!"
+    }
+   ]
+  },
+  {
+   "caption": "다시 부탁",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "규칙은 3개만,\n하루 한 번만!"
+    }
+   ],
+   "sfx": "AI보다 7살이 빠름"
+  }
+ ]
+}

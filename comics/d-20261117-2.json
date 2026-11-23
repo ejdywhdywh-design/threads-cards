@@ -1,0 +1,107 @@
+{
+ "tag": "AI아빠툰",
+ "title": "일주일 저녁 메뉴",
+ "panels": [
+  {
+   "caption": "저녁 뭐 하지",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sad",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "안 맵고 장 한 번에\n볼 수 있게 짜줘"
+    }
+   ]
+  },
+  {
+   "caption": "그럴듯한 메뉴",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "생선구이, 두부조림,\n채소 볶음밥!"
+    }
+   ]
+  },
+  {
+   "caption": "사흘째 두부조림",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "sad",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "sad",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "오늘도\n건강한 거야?"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "짜장라면 줘"
+    }
+   ]
+  },
+  {
+   "caption": "결국",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "메뉴는 AI가 짜도\n먹는 건 애들 마음"
+    }
+   ],
+   "sfx": "짜장라면, 치킨, 피자"
+  }
+ ]
+}

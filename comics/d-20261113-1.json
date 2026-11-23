@@ -1,0 +1,104 @@
+{
+ "tag": "육아툰",
+ "title": "블록 조립 감독",
+ "panels": [
+  {
+   "caption": "블록 조립 시작",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    },
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "point_right",
+     "props": [
+      "book",
+      null
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠 그거 아니야!\n3번 그림 봐야지"
+    }
+   ]
+  },
+  {
+   "caption": "동생은 조용",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "동생은\n착하네~"
+    }
+   ],
+   "sfx": "주머니가 불룩?"
+  },
+  {
+   "caption": "마지막 한 칸",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "surprised",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "부품이 없어?!"
+    }
+   ],
+   "sfx": "온 집안 뒤짐"
+  },
+  {
+   "caption": "범인 발견",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "down"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "동생 주머니에서\n세 개 나옴"
+    },
+    {
+     "who": "hyung",
+     "text": "다음엔\n빨리 해"
+    }
+   ]
+  }
+ ]
+}

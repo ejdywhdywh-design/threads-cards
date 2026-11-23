@@ -1,0 +1,104 @@
+{
+ "tag": "육아툰",
+ "title": "형아 선생님",
+ "panels": [
+  {
+   "caption": "선생님 놀이 시작",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "up",
+     "props": [
+      null,
+      "book"
+     ]
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "동생! ㄱㄴㄷ\n따라 써!"
+    }
+   ]
+  },
+  {
+   "caption": "삐뚤면 다시",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "point_right"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "sad",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "삐뚤면\n다시 써!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "으아앙…"
+    }
+   ]
+  },
+  {
+   "caption": "동생은 도망가고",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "point_right"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠 앉아!\n이름 열 번 쓰기"
+    }
+   ],
+   "sfx": "다음 학생은 아빠"
+  },
+  {
+   "caption": "검사 시간",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "sad",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠 글씨가\n제일 삐뚤어"
+    }
+   ],
+   "sfx": "열심히 썼는데…"
+  }
+ ]
+}

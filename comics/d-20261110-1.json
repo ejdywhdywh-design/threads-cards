@@ -1,0 +1,105 @@
+{
+ "tag": "육아툰",
+ "title": "고자질 접수처",
+ "panels": [
+  {
+   "caption": "아빠! 아빠!",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "point_right"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "동생이 나 치고\n지나갔어!"
+    }
+   ]
+  },
+  {
+   "caption": "이번엔 동생",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dongsaeng",
+     "expr": "angry",
+     "arms": "point_right"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "형아가 내 블록\n만졌어!"
+    }
+   ]
+  },
+  {
+   "caption": "판결을 내리면",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "sad",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "sad",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "억울해!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "나도 억울해!!"
+    }
+   ],
+   "sfx": "안 내려도 억울"
+  },
+  {
+   "caption": "마지막엔",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "dongsaeng",
+     "expr": "cry",
+     "arms": "up"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "엄마! 아빠가\n한숨 쉬었어!"
+    }
+   ],
+   "sfx": "아빠도 신고당함"
+  }
+ ]
+}

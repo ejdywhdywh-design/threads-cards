@@ -1,0 +1,117 @@
+{
+ "tag": "육아툰",
+ "title": "따라 하지 마!",
+ "panels": [
+  {
+   "caption": "형아: 따라 하지 마!",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "point_right"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "따라 하지 마!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "따라 하지 마!"
+    }
+   ]
+  },
+  {
+   "caption": "아빠 쟤 또!",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "point_right"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠 쟤 또\n따라 해!!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "아빠 쟤 또\n따라 해!!"
+    }
+   ]
+  },
+  {
+   "caption": "보다 못한 아빠",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "down"
+    },
+    {
+     "who": "dad",
+     "expr": "angry",
+     "arms": "up"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "down"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "둘 다 그만!"
+    }
+   ]
+  },
+  {
+   "caption": "표적은 아빠로",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "둘 다 그만!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "둘 다 그만!"
+    }
+   ],
+   "sfx": "메아리 두 개"
+  }
+ ]
+}

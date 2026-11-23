@@ -1,0 +1,90 @@
+{
+ "tag": "맛집툰",
+ "title": "냉채족발 있나요?",
+ "panels": [
+  {
+   "caption": "족발 시키면",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "냉채도 돼요?"
+    }
+   ]
+  },
+  {
+   "caption": "부산 냉채족발",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "yum",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "해파리 오이에\n겨자 소스 톡!"
+    }
+   ],
+   "sfx": "코가 찡~"
+  },
+  {
+   "caption": "아산에서는",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sad",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "메뉴판에\n아직 못 봤다"
+    }
+   ]
+  },
+  {
+   "caption": "애들은",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "surprised",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "겨자 냄새!\n코 막아!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "오이는\n아빠 줄게"
+    }
+   ],
+   "sfx": "족발은 다 먹음"
+  }
+ ]
+}

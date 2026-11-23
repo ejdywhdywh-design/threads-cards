@@ -1,0 +1,97 @@
+{
+ "tag": "맛집툰",
+ "title": "부산어묵의 비밀",
+ "panels": [
+  {
+   "caption": "아산 마트에서",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "surprised",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "'부산어묵'?\n그냥 어묵인데 ㅋㅋ"
+    }
+   ]
+  },
+  {
+   "caption": "찬바람 불면",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "yum",
+     "arms": "up",
+     "props": [
+      "bowl",
+      null
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "꼬치 하나 들고\n국물 후후~"
+    }
+   ],
+   "sfx": "종이컵 국물"
+  },
+  {
+   "caption": "애들은",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "hold",
+     "props": [
+      "bowl",
+      null
+     ]
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "hold",
+     "props": [
+      "bowl",
+      null
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "국물 한 잔 더!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "나도 한 잔!"
+    }
+   ]
+  },
+  {
+   "caption": "꼬치는",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sad",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "꼬치는\n결국 아빠 몫"
+    }
+   ],
+   "sfx": "겨울 어묵 어디 가노?"
+  }
+ ]
+}

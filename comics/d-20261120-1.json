@@ -1,0 +1,90 @@
+{
+ "tag": "육아툰",
+ "title": "비밀번호 해킹",
+ "panels": [
+  {
+   "caption": "너무 조용한 집",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "애들이 너무\n조용하네…"
+    }
+   ]
+  },
+  {
+   "caption": "방에 가보니",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "형아 최고!"
+    }
+   ],
+   "sfx": "내 폰으로 영상 틀어줌"
+  },
+  {
+   "caption": "몰래 비번을 바꿨더니",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "이제 안전하다…"
+    }
+   ]
+  },
+  {
+   "caption": "다음 날",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "point_right"
+    },
+    {
+     "who": "dad",
+     "expr": "surprised",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠 비번\n바뀌었더라?"
+    }
+   ],
+   "sfx": "손으로 가리고 침"
+  }
+ ]
+}

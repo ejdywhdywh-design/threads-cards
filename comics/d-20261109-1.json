@@ -1,0 +1,96 @@
+{
+ "tag": "육아툰",
+ "title": "안 된다는 말",
+ "panels": [
+  {
+   "caption": "TV 하나만 더?",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up"
+    },
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠 TV 하나만\n더 봐도 돼?"
+    }
+   ]
+  },
+  {
+   "caption": "아빠의 대답",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "sad",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "angry",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "안 돼, 너무\n많이 봤다"
+    }
+   ]
+  },
+  {
+   "caption": "3초 뒤",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "엄마, 아빠가\n안 된대…"
+    }
+   ],
+   "sfx": "안방으로 질주"
+  },
+  {
+   "caption": "결과는",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    },
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "다음엔 엄마한테\n먼저 가겠네"
+    }
+   ],
+   "sfx": "사는 법을 일찍 배움"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "tag": "육아툰",
+ "title": "불 끄고 나서",
+ "panels": [
+  {
+   "caption": "불을 끄자마자",
+   "bg": "night",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sleepy",
+     "arms": "hold"
+    },
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠 물 마시고\n싶어"
+    }
+   ]
+  },
+  {
+   "caption": "두 번째는",
+   "bg": "night",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sleepy",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "sad",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "쉬 마려워"
+    }
+   ]
+  },
+  {
+   "caption": "세 번째는 둘이 같이",
+   "bg": "night",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아까 할 말\n까먹었어"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "…내일\n말해줄게"
+    }
+   ]
+  },
+  {
+   "caption": "결국",
+   "bg": "night",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sleepy",
+     "arms": "hold",
+     "x": 0.4,
+     "sit": true
+    },
+    {
+     "who": "hyung",
+     "expr": "sleepy",
+     "arms": "hold",
+     "x": 0.72,
+     "scale": 0.6
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "sleepy",
+     "arms": "hold",
+     "x": 0.9,
+     "scale": 0.55
+    }
+   ],
+   "bubbles": [],
+   "sfx": "아빠가 방문 앞에서 잠"
+  }
+ ]
+}

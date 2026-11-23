@@ -1,0 +1,96 @@
+{
+ "tag": "육아툰",
+ "title": "내가 할 거야!",
+ "panels": [
+  {
+   "caption": "5살 동생이 혼자서",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "내가 할 거야!"
+    }
+   ]
+  },
+  {
+   "caption": "신발을 반대로",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dongsaeng",
+     "expr": "angry",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "동생아 그거\n바뀌었다"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "아니야!\n이게 맞아!"
+    }
+   ]
+  },
+  {
+   "caption": "다시 신겨주려 하면",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "dongsaeng",
+     "expr": "cry",
+     "arms": "up"
+    },
+    {
+     "who": "dad",
+     "expr": "surprised",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [],
+   "sfx": "현관 바닥에 드러누움"
+  },
+  {
+   "caption": "형아의 한마디",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "surprised",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "cry",
+     "arms": "up",
+     "scale": 0.8
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠, 나도\n저랬어?"
+    }
+   ],
+   "sfx": "응, 똑같았다"
+  }
+ ]
+}

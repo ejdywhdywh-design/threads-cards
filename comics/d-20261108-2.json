@@ -1,0 +1,94 @@
+{
+ "tag": "맛집툰",
+ "title": "부산에 가면 밀면",
+ "panels": [
+  {
+   "caption": "부산 내려가면",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "엄마 밥 다음은\n밀면이지!"
+    }
+   ]
+  },
+  {
+   "caption": "전날 술 좀 묵었제?",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "해장은 무조건\n물꼽이다"
+    }
+   ],
+   "sfx": "육수 3잔 먼저"
+  },
+  {
+   "caption": "후루룩",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "yum",
+     "arms": "up",
+     "props": [
+      "bowl",
+      null
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "해장 끝!"
+    }
+   ],
+   "sfx": "애들은 만두"
+  },
+  {
+   "caption": "애들도 벌써",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "hold",
+     "props": [
+      "bowl",
+      null
+     ]
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "hold",
+     "props": [
+      "bowl",
+      null
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "냉면 언제\n먹으러 가?"
+    }
+   ],
+   "sfx": "아산 밀면집 추천해도"
+  }
+ ]
+}

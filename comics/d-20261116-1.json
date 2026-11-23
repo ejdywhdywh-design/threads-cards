@@ -1,0 +1,105 @@
+{
+ "tag": "육아툰",
+ "title": "아빠는 저울",
+ "panels": [
+  {
+   "caption": "과자 열 개씩",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "똑같이\n열 개씩!"
+    }
+   ]
+  },
+  {
+   "caption": "그런데",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "point_right"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "angry",
+     "arms": "point_left"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "동생 게\n더 커!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "형아 건\n멀쩡해!"
+    }
+   ]
+  },
+  {
+   "caption": "아빠의 판결",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "부서진 거 둘은\n한 개로 쳐줄게"
+    }
+   ],
+   "sfx": "큰 거 작은 거 교환"
+  },
+  {
+   "caption": "마지막엔",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "down"
+    },
+    {
+     "who": "dad",
+     "expr": "sad",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "down"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠 거가\n제일 많네"
+    }
+   ],
+   "sfx": "아빠는 한 개도 못 먹음"
+  }
+ ]
+}

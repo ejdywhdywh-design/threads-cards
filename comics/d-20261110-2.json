@@ -1,0 +1,87 @@
+{
+ "tag": "맛집툰",
+ "title": "간짜장의 계란",
+ "panels": [
+  {
+   "caption": "간짜장 시키면",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "계란후라이\n올려주겠지?"
+    }
+   ]
+  },
+  {
+   "caption": "부산 중국집은",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "yum",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "노른자 톡 터뜨려\n비비면 별미!"
+    }
+   ],
+   "sfx": "후라이 턱!"
+  },
+  {
+   "caption": "아산에서는",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "surprised",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "…계란\n어디 갔노?"
+    }
+   ],
+   "sfx": "면이랑 소스만"
+  },
+  {
+   "caption": "애들은 괜찮대",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "hold"
+    },
+    {
+     "who": "dad",
+     "expr": "sad",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "그냥 짜장면도\n맛있어!"
+    }
+   ],
+   "sfx": "아쉬운 건 아빠 혼자"
+  }
+ ]
+}

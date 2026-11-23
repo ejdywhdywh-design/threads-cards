@@ -1,0 +1,112 @@
+{
+ "tag": "AI아빠툰",
+ "title": "싸움 말리는 법 AI한테",
+ "panels": [
+  {
+   "caption": "장난감 하나로",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "point_right"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "angry",
+     "arms": "point_left"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "내 거야!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "내 거야!!"
+    }
+   ]
+  },
+  {
+   "caption": "몰래 폰으로",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "싸울 때 할 말\n3개만 알려줘"
+    }
+   ]
+  },
+  {
+   "caption": "첫 번째 문장",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "sad",
+     "arms": "down"
+    },
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "sad",
+     "arms": "down"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "둘 다\n속상했구나"
+    }
+   ],
+   "sfx": "둘 다 잠깐 멈춤"
+  },
+  {
+   "caption": "그런데",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "point_right"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠 폰에 있는\n거 읽은 거지?"
+    }
+   ],
+   "sfx": "반은 성공, 반은 들킴"
+  }
+ ]
+}

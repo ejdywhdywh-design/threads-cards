@@ -1,0 +1,95 @@
+{
+ "tag": "육아툰",
+ "title": "아빠는 등산로",
+ "panels": [
+  {
+   "caption": "5분만 누울게",
+   "bg": "night",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sleepy",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "아빠 5분만\n누워 있을게"
+    }
+   ]
+  },
+  {
+   "caption": "동생이 배 위로",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "아빠 산이다!"
+    }
+   ]
+  },
+  {
+   "caption": "형아는 다리 쪽",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "나는 반대편으로\n올라간다!"
+    }
+   ]
+  },
+  {
+   "caption": "아빠 산은",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sad",
+     "arms": "hold"
+    },
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "down"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠 산은\n움직이면 안 돼"
+    }
+   ],
+   "sfx": "쉬려다 더 지침"
+  }
+ ]
+}

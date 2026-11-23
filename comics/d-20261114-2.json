@@ -1,0 +1,85 @@
+{
+ "tag": "맛집툰",
+ "title": "떡볶이 떡이 짧더라",
+ "panels": [
+  {
+   "caption": "아산 와서 떡볶이",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "surprised",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "어? 떡이 짧네?"
+    }
+   ]
+  },
+  {
+   "caption": "부산에서는",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "길쭉한 가래떡을\n가위로 숭덩!"
+    }
+   ],
+   "sfx": "국물엔 어묵"
+  },
+  {
+   "caption": "애 둘 키우니",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "surprised",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "맵다! 물 줘!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "튀김 줘!"
+    }
+   ]
+  },
+  {
+   "caption": "남은 떡은",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "남은 떡은\n아빠 몫…"
+    }
+   ],
+   "sfx": "이젠 기준이 맵기"
+  }
+ ]
+}

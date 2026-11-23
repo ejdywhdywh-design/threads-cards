@@ -1,0 +1,102 @@
+{
+ "tag": "육아툰",
+ "title": "머리 감기는 날",
+ "panels": [
+  {
+   "caption": "머리 감길 시간",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dongsaeng",
+     "expr": "cry",
+     "arms": "up"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "눈에 물\n들어가!!"
+    }
+   ],
+   "sfx": "아직 물 안 닿음"
+  },
+  {
+   "caption": "형아 차례",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "up"
+    },
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "나 혼자\n할 수 있어!"
+    }
+   ]
+  },
+  {
+   "caption": "샤워기를 뺏더니",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "point_right"
+    },
+    {
+     "who": "dad",
+     "expr": "surprised",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "발사~!"
+    }
+   ],
+   "sfx": "아빠 쪽으로 발사"
+  },
+  {
+   "caption": "결국",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sad",
+     "arms": "hold"
+    },
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "제일 젖은 사람은\n아빠…"
+    }
+   ],
+   "sfx": "수건 들고 진 빠짐"
+  }
+ ]
+}

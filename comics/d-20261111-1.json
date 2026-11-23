@@ -1,0 +1,114 @@
+{
+ "tag": "육아툰",
+ "title": "차 안 선곡 전쟁",
+ "panels": [
+  {
+   "caption": "차에서 노래 하나",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "point_right"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "angry",
+     "arms": "point_left"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "공룡 노래!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "아니야 내 노래!"
+    }
+   ]
+  },
+  {
+   "caption": "겨우 합의",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "내 차례!"
+    }
+   ],
+   "sfx": "한 곡씩 번갈아"
+  },
+  {
+   "caption": "아빠 노래 틀자",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "up"
+    },
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "up"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "angry",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "아빠 그거 꺼!!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "꺼!!"
+    }
+   ]
+  },
+  {
+   "caption": "이때만 한 팀",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "down"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "down"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "그 순간만\n형제가 한 팀"
+    }
+   ],
+   "sfx": "ㅋㅋ"
+  }
+ ]
+}

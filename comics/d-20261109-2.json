@@ -1,0 +1,93 @@
+{
+ "tag": "AI아빠툰",
+ "title": "짐 목록에 없던 것",
+ "panels": [
+  {
+   "caption": "1박 여행 짐 목록",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "빠뜨리기 쉬운 것\n까지 알려줘"
+    }
+   ]
+  },
+  {
+   "caption": "와, 꼼꼼하다",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "여벌 옷, 상비약,\n물티슈, 충전기!"
+    }
+   ]
+  },
+  {
+   "caption": "밤이 되자",
+   "bg": "lavender",
+   "chars": [
+    {
+     "who": "dongsaeng",
+     "expr": "cry",
+     "arms": "up"
+    },
+    {
+     "who": "dad",
+     "expr": "surprised",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "내 베개\n어딨어?"
+    }
+   ],
+   "sfx": "낡은 애착 베개"
+  },
+  {
+   "caption": "AI는 몰랐던 것",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "다음엔 맨 위에\n'애착템 먼저'"
+    }
+   ],
+   "sfx": "그건 AI도 모름"
+  }
+ ]
+}

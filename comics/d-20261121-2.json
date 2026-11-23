@@ -1,0 +1,111 @@
+{
+ "tag": "AI아빠툰",
+ "title": "AI가 맞힌 그림",
+ "panels": [
+  {
+   "caption": "동생이 그림을 들고",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up",
+     "props": [
+      null,
+      "book"
+     ]
+    },
+    {
+     "who": "dad",
+     "expr": "surprised",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "아빠 이거 뭐게?"
+    }
+   ]
+  },
+  {
+   "caption": "AI한테 물어봄",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "5살이 그린 건데\n뭔지 맞혀줘"
+    }
+   ]
+  },
+  {
+   "caption": "AI의 대답",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "angry",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "감자 가족!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "공룡이잖아!!"
+    }
+   ],
+   "sfx": "AI: 귀여운 감자 가족"
+  },
+  {
+   "caption": "질문 3개만",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "이거 누가\n제일 세?"
+    }
+   ],
+   "sfx": "동생이 10분 설명"
+  }
+ ]
+}

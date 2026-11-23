@@ -1,0 +1,119 @@
+{
+ "tag": "육아툰",
+ "title": "옆자리 협상",
+ "panels": [
+  {
+   "caption": "아빠 옆자리 하나",
+   "bg": "lavender",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "point_right"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "angry",
+     "arms": "point_left"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "내 차례야!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "나 안 잤어!!"
+    }
+   ],
+   "sfx": "어제는 쟤가 잤잖아"
+  },
+  {
+   "caption": "공평하게 가운데",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "down"
+    },
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "down"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "아빠가\n가운데 누울게"
+    }
+   ]
+  },
+  {
+   "caption": "그런데",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "up"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "다리는\n내려놓자…"
+    }
+   ],
+   "sfx": "다리 하나씩 올림"
+  },
+  {
+   "caption": "새벽에 눈 떠보니",
+   "bg": "night",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sleepy",
+     "arms": "hold",
+     "sit": true
+    },
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up",
+     "scale": 0.75
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up",
+     "scale": 0.75
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "아빠는 침대\n끝에 걸쳐 있음"
+    }
+   ],
+   "sfx": "ㅋㅋ"
+  }
+ ]
+}

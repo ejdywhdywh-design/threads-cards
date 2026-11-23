@@ -1,0 +1,100 @@
+{
+ "tag": "육아툰",
+ "title": "나도 일곱 살!",
+ "panels": [
+  {
+   "caption": "동생이 요즘",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "나 일곱 살!"
+    }
+   ]
+  },
+  {
+   "caption": "형아는 못 참음",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "angry",
+     "arms": "point_right"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "angry",
+     "arms": "point_left"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "니는 다섯\n살이잖아!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "나도 형아야!"
+    }
+   ]
+  },
+  {
+   "caption": "아빠 중재",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "down"
+    },
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "up"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "down"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "동생은 다섯 살\n형아다!"
+    }
+   ],
+   "sfx": "둘 다 어리둥절"
+  },
+  {
+   "caption": "형아의 결론",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "cry",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "내가 여덟 되면\n니는 그래도 동생"
+    }
+   ],
+   "sfx": "동생 대성통곡"
+  }
+ ]
+}

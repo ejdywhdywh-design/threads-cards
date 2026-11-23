@@ -1,0 +1,92 @@
+{
+ "tag": "AI아빠툰",
+ "title": "선생님 문자 다듬기",
+ "panels": [
+  {
+   "caption": "사투리 섞인 문자",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "선생님 애가 감기\n쫌 있어가지고예~"
+    }
+   ]
+  },
+  {
+   "caption": "사투리는 빼고",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "정중하게\n바꿔줘"
+    }
+   ]
+  },
+  {
+   "caption": "결과는",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "surprised",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "안녕하십니까…\n이건 공문인데?"
+    }
+   ],
+   "sfx": "학부모 문자 → 공문"
+  },
+  {
+   "caption": "한 줄 더",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "아빠가 직접 쓴\n것처럼 써줘"
+    }
+   ],
+   "sfx": "그제야 사람 말"
+  }
+ ]
+}

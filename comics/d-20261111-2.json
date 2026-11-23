@@ -1,0 +1,98 @@
+{
+ "tag": "AI아빠툰",
+ "title": "산타 답장 사건",
+ "panels": [
+  {
+   "caption": "산타한테 편지",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up",
+     "props": [
+      null,
+      "book"
+     ]
+    },
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "산타 할아버지께\n편지 쓸래!"
+    }
+   ]
+  },
+  {
+   "caption": "답장은 AI한테",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "7살한테 보낼\n산타 답장 써줘"
+    }
+   ]
+  },
+  {
+   "caption": "산타보다 산타",
+   "bg": "lavender",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "happy",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "동생 챙겨줘서\n고맙다고 했네"
+    }
+   ],
+   "sfx": "프린터로 출력!"
+  },
+  {
+   "caption": "그런데",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "surprised",
+     "arms": "point_right"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "이거 내 받아쓰기\n글씨체잖아?"
+    }
+   ],
+   "sfx": "왼손으로 다시 베낌"
+  }
+ ]
+}
