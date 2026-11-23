@@ -1,0 +1,111 @@
+{
+ "tag": "AI아빠툰",
+ "title": "양치 놀이 만들기",
+ "panels": [
+  {
+   "caption": "양치하자 하면",
+   "bg": "lavender",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "smile",
+     "arms": "up"
+    },
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "hold"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "smile",
+     "arms": "up"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "양치하자!"
+    }
+   ],
+   "sfx": "화장실 앞 추격전"
+  },
+  {
+   "caption": "AI한테 물어봄",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "양치 놀이\n3개만 알려줘"
+    }
+   ]
+  },
+  {
+   "caption": "이빨 세균 잡기",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "yum",
+     "arms": "up"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "angry",
+     "arms": "hold"
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "hyung",
+     "text": "세균 사냥꾼\n출동!"
+    },
+    {
+     "who": "dongsaeng",
+     "text": "나는 세균\n할래!"
+    }
+   ]
+  },
+  {
+   "caption": "세균은 아빠가",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sweat",
+     "arms": "up"
+    },
+    {
+     "who": "hyung",
+     "expr": "happy",
+     "arms": "up",
+     "scale": 0.85
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "yum",
+     "arms": "up",
+     "scale": 0.85
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "칫솔 두 개한테\n쫓겨다님…"
+    }
+   ],
+   "sfx": "그제야 입 벌림"
+  }
+ ]
+}

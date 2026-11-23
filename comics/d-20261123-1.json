@@ -1,0 +1,101 @@
+{
+ "tag": "육아툰",
+ "title": "동생의 사진첩",
+ "panels": [
+  {
+   "caption": "아빠 폰 사진첩",
+   "bg": "blue",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "smile",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "사진첩 한번\n열어볼까?"
+    }
+   ]
+  },
+  {
+   "caption": "천장 사진만 87장",
+   "bg": "pink",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "surprised",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "천장, 또 천장…\n발가락?!"
+    }
+   ],
+   "sfx": "콧구멍 클로즈업"
+  },
+  {
+   "caption": "범인은 동생",
+   "bg": "warm",
+   "chars": [
+    {
+     "who": "hyung",
+     "expr": "sad",
+     "arms": "down"
+    },
+    {
+     "who": "dongsaeng",
+     "expr": "happy",
+     "arms": "up",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dongsaeng",
+     "text": "그거 작품이야!"
+    },
+    {
+     "who": "hyung",
+     "text": "내 얼굴은\n왜 없는데!"
+    }
+   ]
+  },
+  {
+   "caption": "결국",
+   "bg": "green",
+   "chars": [
+    {
+     "who": "dad",
+     "expr": "sad",
+     "arms": "hold",
+     "props": [
+      null,
+      "phone"
+     ]
+    }
+   ],
+   "bubbles": [
+    {
+     "who": "dad",
+     "text": "한 장도\n못 지웠다…"
+    }
+   ],
+   "sfx": "용량 꽉 참 알림"
+  }
+ ]
+}
